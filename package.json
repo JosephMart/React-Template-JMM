@@ -1,7 +1,9 @@
 {
-  "name": "return-0-software-react-template",
-  "version": "0.1.0",
+  "name": "react-template-jmm",
+  "version": "1.0.0",
   "private": true,
+  "repository": "https://github.com/JosephMart/React-Template-JMM",
+  "author": "Joseph Martinsen",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "cross-fetch": "^2.1.0",
