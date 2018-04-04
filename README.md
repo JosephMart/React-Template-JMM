@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) by [Joseph Martinsen](https://github.com/JosephMart).
+# [React](https://reactjs.org/)
+# <a href='http://redux.js.org'><img src='https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67' height='60' alt='Redux Logo' aria-label='Redux.js.org' /></a>
+
+[![deps][deps]][deps-url]
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and modified by [Joseph Martinsen](https://github.com/JosephMart).
 
 Utilizes [React-Router](https://github.com/ReactTraining/react-router) and [Redux](https://redux.js.org/).
 
@@ -48,3 +53,6 @@ React-Template-JMM/
 ```
 
 You can find the most recent version of `create-react-app` guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+[deps]: https://img.shields.io/david/JosephMart/React-Template-JMM.svg
+[deps-url]: https://david-dm.org/JosephMart/React-Template-JMM
